@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ContextMenuEditor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ManagedRegistryKeyID" Type="System.Guid" Scope="User">
+      <Value Profile="(Default)">8b28ea6b-8d9b-4cae-a364-7cba49f95ba5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
